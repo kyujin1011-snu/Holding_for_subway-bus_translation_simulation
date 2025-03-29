@@ -4,3 +4,8 @@
 \<Benefit Calculation Model and Simulation of Bus Holding Strategy for Subway-to-Bus Transfer Passengers: Case Study in Gupabal Station Complex>
 
 논문의 Simulation 코드입니다.
+
+데이터는 '서울 열린 데이터 광장'에서 제공하는 '서울시 버스노선별 정류장별 시간대별 승하차 인원 정보' 데이터 중 2025년 1월, 2월 데이터를 사용합니다.
+https://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do
+에서 다운받을 수 있습니다.
+
